@@ -5,7 +5,7 @@
 using namespace std;
 
 char nonRep(string &s) {
-    int n = s.length();
+    int n = 10;
     for (int i = 0; i < n; ++i) {
         bool found = false;
 
