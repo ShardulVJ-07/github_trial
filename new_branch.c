@@ -1,4 +1,2 @@
-#include <stdio.h>
-void main(){
-printf("This is new branch code - but right now inside "MAIN" ");
-}
+
+This is specific New.c Code for new branch only
